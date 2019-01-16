@@ -24,7 +24,7 @@ please cut-and-paste the text from that email here._
 ## Problem 1
 - Scenario: {Stadium}
 - Assumptions:
-  - The next gameday is a match between another NCAA top ranked team. There are almost 70,000 audiences trying to enter the stadium. The away team also have thousands of fans want to get access to the stadium. More than half of the securities are assigning to the entrance. There are some shortage of securities inside of the stadium.
+  - The next gameday is a match between us and another NCAA top ranked team. There are almost 70,000 audiences trying to enter the stadium. The away team also have thousands of fans want to get access to the stadium. More than half of the securities are assigning to the entrance. There are some shortage of securities inside of the stadium.
   
 - Assets:
   - The stadium is the priority assets needed to be protect. As a security manager, it is important to make sure that stadium is not damaged. The font gates, handrails, stadium seats and LED screens are all the most important assets for a stadium. Therefore, I need to make sure those public facilities are not destroyed.
