@@ -22,18 +22,29 @@ _If you contacted us in advance and we approved a late submission,
 please cut-and-paste the text from that email here._
 
 ## Problem 1
-- Scenario: {Stadium|TSA|Documents|Grading|G20}
+- Scenario: {Stadium}
 - Assumptions:
   - explain_your_assumptions
 - Assets:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - The stadium is the priority assets needed to be protect. As a security manager, it is important to make sure that stadium is not damaged. The font gates, handrails, stadium seats and LED screens are all the most important assets for a stadium. Therefore, I need to make sure those public facilities are not destroyed.
+  
+  - The team items are also valuable assets. The team items including team jersey, helmest, football cleats and so on. The team items are kept in the equipment management office or in the locker room.
+  
+  - Small electronic equipments such as laptop, pad and smartphones. The team used electronic equipments usually contains game data and analysis which are important for the entire team. Those equipments mostly are kept in team manager office.
+  
 - Threats:
-  - explanatory_paragraph 
-  - explanatory_paragraph ...
+  - Nature disasters. Nature disasters are the most powerful security threats for a stadium, especially for the old stadiums. The nature disasters for a stadium mostly means heavy rains. For the stadium with open roof and poor drainage system, heavy rains will impact the football game.
+
+  - Facilities getting old. Facilities getting old is another critical issue. The old stadium facilities may cause damage to the audience.
+
+  - Theft. Theft is also another big security threat. Theft sometimes comes from the audience, sometimes comes from the internal staff. The athlete. equipments and electronic equipments are the most easily stolen items. 
+
+  - Man-made damage. For a football team which is frequently ranked among the best in the country. A game day usually could attract almost 70 thousands people to visit the stadium, including the away fans. Therefore man-made damage to the stadium is a serious threat, especially the seats in the away fans area. 
+
 - Countermeasures:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - One coutermeasure is that increasing the number of securities. This method will cause a lot of expenses. We could Assigns securities to provide more rigorous checks when audiences enter the stadium, and send more securities to the away fans area to prevent potential threat. Therefore increasing the number of securities will reduce the probability of theft and man-made damages. 
+
+  - Set up monitorings in the stadium, especially the tunnel outside the locker rooms and staff offices. This countermeasure will not cost too much money, but will prevent a lot threat to the internal theft, and reduce the probability of equipment stolen.
 
 ## Problem 2
 - Scenario: {Stadium|TSA|Documents|Grading|G20}
