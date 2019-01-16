@@ -24,7 +24,8 @@ please cut-and-paste the text from that email here._
 ## Problem 1
 - Scenario: {Stadium}
 - Assumptions:
-  - explain_your_assumptions
+  - The next gameday is a match between another NCAA top ranked team. There are almost 70,000 audiences trying to enter the stadium. The away team also have thousands of fans want to get access to the stadium. More than half of the securities are assigning to the entrance. There are some shortage of securities inside of the stadium.
+  
 - Assets:
   - The stadium is the priority assets needed to be protect. As a security manager, it is important to make sure that stadium is not damaged. The font gates, handrails, stadium seats and LED screens are all the most important assets for a stadium. Therefore, I need to make sure those public facilities are not destroyed.
   
@@ -33,10 +34,6 @@ please cut-and-paste the text from that email here._
   - Small electronic equipments such as laptop, pad and smartphones. The team used electronic equipments usually contains game data and analysis which are important for the entire team. Those equipments mostly are kept in team manager office.
   
 - Threats:
-  - Nature disasters. Nature disasters are the most powerful security threats for a stadium, especially for the old stadiums. The nature disasters for a stadium mostly means heavy rains. For the stadium with open roof and poor drainage system, heavy rains will impact the football game.
-
-  - Facilities getting old. Facilities getting old is another critical issue. The old stadium facilities may cause damage to the audience.
-
   - Theft. Theft is also another big security threat. Theft sometimes comes from the audience, sometimes comes from the internal staff. The athlete. equipments and electronic equipments are the most easily stolen items. 
 
   - Man-made damage. For a football team which is frequently ranked among the best in the country. A game day usually could attract almost 70 thousands people to visit the stadium, including the away fans. Therefore man-made damage to the stadium is a serious threat, especially the seats in the away fans area. 
