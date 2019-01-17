@@ -66,16 +66,22 @@ please cut-and-paste the text from that email here._
   - Another countermeasure is finding engineers and technical staff to repair the broken equipment. This will costs some money and human resources. The benefits are obvious. Passengers will wait for less time to pass the security check. The security check will increase accuracy by using repaired screening equipment.
 
 ## Problem 3
-- Scenario: Your choice (give a brief explanation)
+- Scenario: You are in charge of security work in a local supermarket, like Target.
 - Assumptions:
-  - explain_your_assumptions
+  - One day, heavy rain caused power shortage. All closed-circuit televisions are down, the checkout counter is not working either.
+  
 - Assets:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - The goods. All commodities are valuable assets for a supermarket. Some commodities are extremely expensive such as furniture, electronic products, TVs. Those products must be protected by the securities. 
+  
 - Threats:
-  - explanatory_paragraph 
-  - explanatory_paragraph ...
+  - Theft. Since closed-circuit televisions are down and power is off, there may have theft happens. We need to sure that all customers will not take extra things which are not belong to them.  
+  
+  - Frozen food becomes another tricky problem when power off happens. We need to make sure that frozen foods don’t deteriorate. 
+  
+  - Money at the checkout counter. Since power is off, the checkout counter is not working as well. One safety threat is that how to keep money safety.
+  
 - Countermeasures:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - One countermeasure is that to find backup power. This may costs some money considering the price of electric generator or the fees for electricity company. The benefit is that power is back so that camera could work, the checkout counter can also be used. Everything works fine. 
+  
+  - Assign more security and work staff. This action requires human recourses and costs money. Assigning more securities at the exit will effectively reduce the theft rate and guarantee the safety of commodities. 
 
