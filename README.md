@@ -44,18 +44,26 @@ please cut-and-paste the text from that email here._
   - Set up monitorings in the stadium, especially the tunnel outside the locker rooms and staff offices. This countermeasure will not cost too much money, but will prevent a lot threat to the internal theft, and reduce the probability of equipment stolen.
 
 ## Problem 2
-- Scenario: {Stadium|TSA|Documents|Grading|G20}
+- Scenario: {TSA}
 - Assumptions:
-  - explain_your_assumptions
+  - It is a busy day at the airport. However, some x-ray machine and check screening is not working. A large number of tourist are waiting outside of the check point. Some people’s airplanes are about to take off. 
+  
 - Assets:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - The most important assets I need to protect is the safety of entire airport. Every tourist need to pass screening check in order to get into the airport. Thus, although some equipment does not work properly, we still require all passengers to wait until screening check is completed. 
+  
+  - The screening check equipment are also valuable assets I need to protect. I need to make sure all able to operate screening machine avoid damages. 
+  
+  - All passengers are important assets I need to protect. We want all tourist can catch their flight. Thus, we need to make out effort to make every passenger to pass the screening check as soon as possible. 
+  
 - Threats:
-  - explanatory_paragraph 
-  - explanatory_paragraph ...
+  - The biggest threat is the dangerous items carried by passengers. Those dangerous items include lighter, guns, bullets and so on. The prohibit items will cause massive damage to the airport and even threaten the safety of passengers. Therefore, use screening scan to find and eliminate the danger of prohibit items is the priority work to do. 
+  
+  - Tourists may have some excited emotions during long time waiting. Since some screening machine is not valid. Passengers need to wait for longer time than usual. They may have the risk not catching up the flight. Therefore, some tourist may have excited emotion which may cause some irrational behavior. 
+  
 - Countermeasures:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - One of the countermeasure is that adding more working staff to help checking passengers packages. The manual inspection to the carry-on baggage will squeeze the entire waiting time for passengers. This countermeasure will cost some resources, but will effectively reduce the time of security check, and also effectively find dangerous items and reduce safety risks.
+  
+  - Another countermeasure is finding engineers and technical staff to repair the broken equipment. This will costs some money and human resources. The benefits are obvious. Passengers will wait for less time to pass the security check. The security check will increase accuracy by using repaired screening equipment.
 
 ## Problem 3
 - Scenario: Your choice (give a brief explanation)
